@@ -1,0 +1,31 @@
+.todo-list-container {
+    margin-top:20px;
+    margin-left:30px;
+}
+
+.todo-list-header {
+    display: flex;
+    margin-top:10px;
+ 
+}
+
+.todo-title {
+    width:39vw;
+    margin-left:20px;
+    font-size:20px;
+    cursor: pointer;
+    margin-top:2px;
+}
+
+.after-todo-title {
+    width:39vw;
+    margin-left:20px;
+    font-size:20px;
+    margin-top:2px;
+    color:green;
+    text-decoration:line-through;
+    text-decoration-color: green 
+
+
+
+}

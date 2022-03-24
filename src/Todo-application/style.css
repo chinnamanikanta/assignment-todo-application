@@ -1,0 +1,17 @@
+
+.todo-container {
+    width:50vw;
+    /* border:2px solid red; */
+    background-color: white;
+    box-shadow:0 3px 10px rgb(0 0 0 / 0.2);;
+    padding-bottom:50px;
+    padding-right:20px;
+    
+}
+.title {
+    font-size:30px;
+    font-weight:700;
+    margin-left:30px;
+    padding-top:25px;
+    
+}

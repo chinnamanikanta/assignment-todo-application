@@ -1,0 +1,8 @@
+.each-edit-input{
+width:33vw;
+height:30px;
+box-shadow: 0 8px 8px -4px lightblue;
+border:3px solid #0fc0fc;
+border-radius:4px;
+font-size:18px;
+}
